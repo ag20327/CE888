@@ -21,11 +21,11 @@ The other dataset used was FireNet [2] only utilizng the Training Dataset.zip ht
 Once the files have been prepared the code can be runned 
 
 The codes are divided in:  
-Model Training which included preparing the dataset, the model and fiting the model  
-Testing to observe directly how the model performs by loading it and preparing only the Test dataset  
+*Model Training which included preparing the dataset, the model and fiting the model  
+*Testing to observe directly how the model performs by loading it and preparing only the Test dataset  
 
-General/Specific trains the model first on FireNet and then on FLAME   
-Specific only trains the model on FLAME  
+*General/Specific trains the model first on FireNet and then on FLAME   
+*Specific only trains the model on FLAME  
 
 
 All models produced on this approach can be accesed here:   
@@ -34,10 +34,10 @@ https://drive.google.com/drive/folders/1hjLq7FhpuQuNNtRXjlGuBV7_OtT4c95-?usp=sha
 The models can be loaded directly for quicker analysis on their performance without the need to retrain them, only need to change the path on the Testing part on 
 model.load to the desired model path, and prepare the Test Set
 
-
-
-
-
+*  
+*  
+*  
+*  
 [1] Alireza Shamsoshoara, Fatemeh Afghah, Abolfazl Razi, Liming Zheng, Peter Fulé, Erik Blasch, November 19, 2020, "The FLAME dataset: Aerial Imagery Pile burn detection using drones (UAVs)", IEEE Dataport, doi: https://dx.doi.org/10.21227/qad6-r683 .
 
 [2]  Jadon, Arpit, et al. "FireNet: a specialized lightweight fire & smoke detection model for real-time IoT applications." arXiv preprint arXiv:1905.11922 (2019). 
