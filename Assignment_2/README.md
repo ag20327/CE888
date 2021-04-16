@@ -33,3 +33,11 @@ https://drive.google.com/drive/folders/1hjLq7FhpuQuNNtRXjlGuBV7_OtT4c95-?usp=sha
 
 The models can be loaded directly for quicker analysis on their performance without the need to retrain them, only need to change the path on the Testing part on 
 model.load to the desired model path, and prepare the Test Set
+
+
+
+
+
+[1] Alireza Shamsoshoara, Fatemeh Afghah, Abolfazl Razi, Liming Zheng, Peter Fulé, Erik Blasch, November 19, 2020, "The FLAME dataset: Aerial Imagery Pile burn detection using drones (UAVs)", IEEE Dataport, doi: https://dx.doi.org/10.21227/qad6-r683 .
+
+[2]  Jadon, Arpit, et al. "FireNet: a specialized lightweight fire & smoke detection model for real-time IoT applications." arXiv preprint arXiv:1905.11922 (2019). 
