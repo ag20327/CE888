@@ -1,5 +1,6 @@
 **Wildfire detection**
-
+This work paper can be read here:  
+https://drive.google.com/file/d/1KKQ6hmniUttAIkd9LbEe2JrEw2BBN1_9/view?usp=sharing
 
 **Instructions**   
 This solution is divided into two approaches:  
