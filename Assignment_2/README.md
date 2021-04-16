@@ -21,11 +21,11 @@ The other dataset used was FireNet [2] only utilizng the Training Dataset.zip ht
 Once the files have been prepared the code can be runned 
 
 The codes are divided in:  
-*Model Training which included preparing the dataset, the model and fiting the model  
-*Testing to observe directly how the model performs by loading it and preparing only the Test dataset  
+*  Model Training which included preparing the dataset, the model and fiting the model  
+*  Testing to observe directly how the model performs by loading it and preparing only the Test dataset  
 
-*General/Specific trains the model first on FireNet and then on FLAME   
-*Specific only trains the model on FLAME  
+*  General/Specific trains the model first on FireNet and then on FLAME   
+*  Specific only trains the model on FLAME  
 
 
 All models produced on this approach can be accesed here:   
